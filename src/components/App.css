@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dark {
+    background-color: #1f2022;
+    color: white;
+  }
+  
+  .light {
+    background-color: white;
+    color: black;
+  }
+  
